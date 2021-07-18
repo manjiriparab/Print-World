@@ -11,7 +11,7 @@ export default function Login() {
     const {user, setUser} = useContext(UserContext);
     const [login, setLogin] = useState({
         email:'manjiri.parab@conspecture.com',
-        password:'manjiri123',
+        password:'qwerty123',
     });
     let history = useHistory();
 
