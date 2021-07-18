@@ -2,7 +2,7 @@
   "name": "printpaper-core",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://manjiriparab.github.io/Print-World/",
+  "homepage": "https://manjiriparab.github.io/Print-World",
   "dependencies": {
     "@material-ui/core": "^4.11.2",
     "@material-ui/icons": "^4.11.2",
@@ -30,7 +30,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "master -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
