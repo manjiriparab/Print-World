@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/print-world/static/css/main.dc53903c.chunk.css",
+    "main.js": "/print-world/static/js/main.1db28d28.chunk.js",
+    "main.js.map": "/print-world/static/js/main.1db28d28.chunk.js.map",
+    "runtime-main.js": "/print-world/static/js/runtime-main.1894c194.js",
+    "runtime-main.js.map": "/print-world/static/js/runtime-main.1894c194.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/print-world/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.5cd1f420.chunk.js": "/print-world/static/js/2.5cd1f420.chunk.js",
+    "static/js/2.5cd1f420.chunk.js.map": "/print-world/static/js/2.5cd1f420.chunk.js.map",
+    "index.html": "/print-world/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/print-world/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.dc53903c.chunk.css.map": "/print-world/static/css/main.dc53903c.chunk.css.map",
+    "static/js/2.5cd1f420.chunk.js.LICENSE.txt": "/print-world/static/js/2.5cd1f420.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1894c194.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.5cd1f420.chunk.js",
+    "static/css/main.dc53903c.chunk.css",
+    "static/js/main.1db28d28.chunk.js"
+  ]
+}
